@@ -62,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/296491ac-c80f-43a6-a96c-f7305ca0d9c3/deploy-status)](https://app.netlify.com/sites/idyllic-sorbet-54d4ec/deploys)
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
